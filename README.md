@@ -1,7 +1,3 @@
-My favorite font is <span style="font-family: 'Courier Prime';"> foo </span>
-
-
-
 Hi! I am a graduate student majoring in statistics.
 Here you can see some of my study materials and codes.  
 
@@ -12,6 +8,10 @@ P.S. If this wasn't enough for you no worries!
 you can also find out more ABOUT ME here :)  
 
 wholeheartedly, chanmeee  
+
+
+
+
 
 
 
