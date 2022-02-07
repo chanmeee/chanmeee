@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link href='http://fonts.googelapis.com/css?family=Love+Ya+Like+A+Sister' rel='stylesheet' type='text/css'>
-    <style>
-      .a {font-family: "Love Ya Like A Sister", cursive;}
-      .b {font-family: "Courtier"}
-    </style>
-  </head>
+Dear Git digger,  
 
-  <body>
-    <p class="a">font-family: "Love Ya Like A Sister";</p>
-    <p class="b">font-family: "Courtier";</p>
-  </body>
-
-</html>
-
-<h3>Dear Git digger,</h3>
-
-<p>Hi! I am a graduate student majoring in statistics based in Seoul, S.Korea.  
-Here you can see some of my study materials and codes.</br>
-</p>
-
-</body>
-</html>
+Hi! I am a graduate student majoring in statistics based in Seoul, S.Korea.  
+Here you can see some of my study materials and codes.
 
 Feel free to snoop around on my git pages.  
 For inquiries contact me, I will be happy to hear from you.  
