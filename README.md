@@ -6,7 +6,7 @@ Hi! I am a graduate student majoring in statistics.
 Here you can see some of my study materials and codes.  
 
 Feel free to snoop around on my git pages.  
-For inquiries contact me, i will be happy to hear from you.  
+For inquiries contact me, I will be happy to hear from you.  
 
 P.S. If this wasn't enough for you no worries!  
 you can also find out more ABOUT ME here :)  
