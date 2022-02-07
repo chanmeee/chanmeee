@@ -1,4 +1,4 @@
-<span style="font-family: 'Courier Prime';">foo</span>
+My favorite font is <span style="font-family: 'Courier Prime';"> foo </span>
 
 
 
