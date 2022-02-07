@@ -29,7 +29,7 @@ Here are some stacks that I can handle:
   
   
 P.S. If this wasn't enough for you no worries!  
-you can also find out more ABOUT ME here :)  
+you can also find out more [ABOUT ME](https://read.cv/join/chanmi.yoo) here :)  
 
 wholeheartedly, chanmeee  
 
